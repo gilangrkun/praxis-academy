@@ -3,7 +3,7 @@
 
 #### Organization
 Untuk mengatur banyak proyek team, sehingga dapat dibuat organisasi. Untuk membuatnya, yaitu:
-Pertama, masuk ke menu ~~setting~~ pada profile, lalu pilih menu ~~organization~~ dan untuk menambahkan organisasi baru pilih ~~new organization~~ yang ada di kanan atas halaman, seperti pada gambar di bawah.
+Pertama, masuk ke menu <setting> pada profile, lalu pilih menu ~~organization~~ dan untuk menambahkan organisasi baru pilih ~~new organization~~ yang ada di kanan atas halaman, seperti pada gambar di bawah.
 
 ![ss1](https://github.com/gilangrkun/rhymes/blob/master/img/ss1.jpg)
 
