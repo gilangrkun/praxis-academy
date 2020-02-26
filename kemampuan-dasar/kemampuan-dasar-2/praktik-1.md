@@ -1,5 +1,4 @@
-### Mempraktikan:
-### *Getting Started: Collaborative Development Git*
+### Mempraktikan: *Getting Started: Collaborative Development Git*
 
 #### Examples Scenario
 
