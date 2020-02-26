@@ -1,0 +1,27 @@
+menulis command line:
+
+1. c:\users\GRK>cd desktop
+2. c:\users\GRK\desktop>mkdir praxis-academy
+3. c:\users\GRK\desktop>cd praxis-academy
+4. c:\users\GRK\desktop\praxis-academy>mkdir kemampuan-dasar
+5. c:\users\GRK\desktop\praxis-academy>cd kemampuan-dasar
+6. c:\users\GRK\desktop\praxis-academy\kemampuan-dasar>notepad cmdline.txt
+7. c:\users\GRK\desktop\praxis-academy\kemampuan-dasar>mkdir latihan
+8. c:\users\GRK\desktop\praxis-academy\kemampuan-dasar>cd latihan
+9. c:\users\GRK\desktop\praxis-academy\kemampuan-dasar\latihan>move ..\cmdline.txt 
+10. c:\users\GRK\desktop\praxis-academy\kemampuan-dasar\latihan>cd C:\users\GRK\desktop
+11. c:\users\GRK\desktop>ren kemampuan-dasar kemampuan-dasar-1
+12. c:\users\GRK\desktop>type kemampuan-dasar-1\latihan\cmdline.txt
+13. c:\users\GRK\desktop>copy kemampuan-dasar-1\latihan\cmdline.txt COMMANDLINE.txt
+14. c:\users\GRK\desktop>del COMMANDLINE.txt
+15. c:\users\GRK\desktop>pwd
+16. c:\users\GRK\desktop>ls
+17. c:\users\GRK\desktop>dir
+18. c:\users\GRK\desktop>ping 127.0.0.1
+19. c:\users\GRK\desktop>xcopy /s /i praxis-academy d:backup_praxis-academy
+20. c:\users\GRK\desktop>cd c:\windows\system32\
+21. c:\windows\system32>mspaint.exe
+22. c:\windows\system32>help
+23. c:\windows\system32>netstat
+24. c:\windows\system32>systeminfo
+25. c:\windows\system32>ipconfig
