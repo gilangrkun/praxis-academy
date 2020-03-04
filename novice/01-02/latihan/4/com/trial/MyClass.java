@@ -1,3 +1,6 @@
+// nama package
+package com.trial;
+
 // pembuatan class untuk data mahasiswa
 class Mahasiswa {
     String nama;
