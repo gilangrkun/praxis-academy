@@ -1,5 +1,5 @@
 // nama package
-package com.trial;
+package my_class;
 
 // pembuatan class untuk data mahasiswa
 class Mahasiswa {

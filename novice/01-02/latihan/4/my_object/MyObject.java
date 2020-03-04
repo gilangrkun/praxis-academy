@@ -1,3 +1,5 @@
+package my_object;
+
 public class MyObject {
 
     String NIK_1 = "12949910";
