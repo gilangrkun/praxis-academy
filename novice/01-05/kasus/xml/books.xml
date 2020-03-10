@@ -1,23 +1,23 @@
 <?xml version="1.0" ?>
 <bookList>
   <book>
-    <title>The Cat in the Hat</title>
-    <author>Dr. Seuss</author>
-    <price>6.99</price>
+    <title>Marmut Merah Jambu</title>
+    <author>Raditya Dika</author>
+    <price>60000</price>
   </book>
   <book>
-    <title>Ender's Game</title>
-    <author>Orson Scott Card</author>
-    <price>7.95</price>
+    <title>The Boy in the Stripped Pajamas</title>
+    <author>John Boyne</author>
+    <price>100000</price>
   </book>
   <book>
-    <title>Prey</title>
-    <author>Michael Crichton</author>
-    <price>8.99</price>
+    <title>Enlightenment Now</title>
+    <author>Steven Pinker</author>
+    <price>150000</price>
   </book>
   <book>
-    <title>Honor Harrington</title>
-    <author>David Weber</author>
-    <price>8.75</price>
+    <title>Belajar Java Dasar</title>
+    <author>Gilang R Kuntiarso</author>
+    <price>1000000</price>
   </book>
 </bookList>

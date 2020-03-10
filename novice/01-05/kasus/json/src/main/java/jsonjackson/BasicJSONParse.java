@@ -21,7 +21,7 @@ class BasicJSONParse {
       JsonToken token = null;
       String title = "";
       String author = "";
-      double price = 0;
+      int price = 0;
       boolean gotTitle = false;
       boolean gotAuthor = false;
       boolean gotPrice = false;
@@ -51,7 +51,7 @@ class BasicJSONParse {
                  gotAuthor = true;
               }
               else if (name.equals("price")) {
-                 price = Double.parseDouble(value.trim());
+                 price = Integer.parseInt(value.trim());
                  gotPrice = true;
               }
               if (gotTitle && gotAuthor && gotPrice) {

@@ -1,24 +1,24 @@
 {
     "bookList" : [
       {
-        "title" : "The Cat in the Hat",
-        "author" : "Dr. Seuss",
-        "price" : 4.99
+        "title" : "Marmut Merah Jambu",
+        "author" : "Raditya Dika",
+        "price" : 60000
       },
       {
-        "title" : "Ender's Game",
-        "author" : "Orson Scott Card",
-        "price" : 8.99
+        "title" : "The Boy in the Stripped Pajamas",
+        "author" : "John Boyne",
+        "price" : 100000
       },
       {
-        "title" : "Prey",
-        "author" : "Michael Crichton",
-        "price" : 6.95
+        "title" : "Enlightenment Now",
+        "author" : "Steven Pinker",
+        "price" : 150000
       },
       {
-        "title" : "Honor Harrington",
-        "author" : "David Weber",
-        "price" : 8.75
+        "title" : "Belajar Java Dasar",
+        "author" : "Gilang R Kuntiarso",
+        "price" : 1000000
       }
     ]
   }
