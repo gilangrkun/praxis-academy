@@ -35,6 +35,15 @@ dependencies {
 
 }
 
+jar {
+    manifest {
+      attributes (
+        'Main-Class': 'jsonjackson.BasicJSONParse'
+      )
+    }
+}
+
+
 application {
     // Define the main class for the application.
     mainClassName = 'jsonjackson.BasicJSONParse'

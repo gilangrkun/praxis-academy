@@ -35,6 +35,15 @@ dependencies {
 
 }
 
+jar {
+    manifest {
+      attributes (
+        'Main-Class': 'xmltest.ReadXML'
+      )
+    }
+}
+
+
 application {
     // Define the main class for the application.
     mainClassName = 'xmltest.ReadXML'
